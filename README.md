@@ -3,11 +3,7 @@
 </p>
 
 ### INSTALL SCRIPT
-<pre><code>wget -q https://raw.githubusercontent.com/capzsmodzs/scriptmodzs/main/main.sh && chmod +x main.sh && ./main.sh
-</code></pre>
-
-### UPDATE SCRIPT 
-<pre><code>wget -q https://raw.githubusercontent.com/capzsmodzs/scriptmodzs/main/update.sh && chmod +x update.sh && ./update.sh
+<pre><code>wget -q https://raw.githubusercontent.com/capzsmodzs/scriptmodzs/main/v3.sh && chmod +x v3.sh && ./v3.sh
 </code></pre>
 
 ### TESTED ON OS 
