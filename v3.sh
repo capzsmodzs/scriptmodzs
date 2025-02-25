@@ -203,8 +203,8 @@ fi
 ################
  # // GET VBBOT
 TIMES="10"
-CHATID="1962241851"
-KEY="6866097221:AAFdDsbTF-R7_d07ewI3z0BQHYrd7yQNhhA"
+CHATID="7622491347"
+KEY="7147889676:AAGneWuFhAWM6V0OO-xa73CDG32C-q5OUgA"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 ################
 function base_package() {
